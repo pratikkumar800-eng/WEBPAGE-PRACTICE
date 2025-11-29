@@ -1,0 +1,31 @@
+<link rel="stylesheet" type="text/css" href="fillecss">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="fille.css">
+</head>
+<body>
+     <p style="color:blue; font-size:40px;text-decoration: underline; font-weight"> I like to read.
+    
+     </p>
+Shorthand <Property:z></Property:z>
+body {
+    <style>
+      body {
+            background: url("pic.jfif") no-repeat center
+            center / cover fixed;
+        }
+    </style>
+    <p style="white-space: pre-wrap;">okay
+        whatever                                                  
+        kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+        oooooooooooooooooooooooooooooooooooooooooooooooobbbbbb
+        lllllllllllllllllllllllllllllllllllldssdsd
+        
+    </p>
+    
+</body>
+</html>
